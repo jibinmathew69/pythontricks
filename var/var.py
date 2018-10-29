@@ -1,0 +1,3 @@
+variable = {
+    "ten" : 10
+}
